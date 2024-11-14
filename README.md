@@ -25,8 +25,8 @@
 | [VCLIPSeg: Voxel-wise CLIP-Enhanced model for Semi-Supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/1949_paper.pdf) | VCLIPSeg | MICCAI 2024 | -- |
 
 
-# Referring Medical Image Segmentation
-## 2024
+## Referring Medical Image Segmentation
+### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [CausalCLIPSeg: Unlocking CLIP’s Potential in Referring Medical Image Segmentation with Causal Intervention](https://papers.miccai.org/miccai-2024/paper/3127_paper.pdf) | CausalCLIPSeg | MICCAI 2024 | https://github.com/WUTCM-Lab/CausalCLIPSeg |
