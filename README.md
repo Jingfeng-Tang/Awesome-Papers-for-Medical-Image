@@ -1,12 +1,12 @@
-# Awesome-Papers-for-Barely-Supervised-Medical-Image-Segmentation
+# Awesome-Papers-for-Medical-Image-Segmentation
 
 ## 2024
-| Title | Abbreviation | Venue | Code |
-|-----|-----|-----|-----|
-| [FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0050_paper.pdf) | FM-ABS | MICCAI 2024 | https://github.com/lemoshu/FM-ABS |
-| [Few Slices Suffice Multi-faceted Consistency Learning with Active Cross-Annotation for Barely-Supervised 3D Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_27) | MF-ConS | MICCAI 2024 | -- |
-| [Rethinking Barely-Supervised Volumetric Medical Image Segmentation from an Unsupervised Domain Adaptation Perspective](https://arxiv.org/abs/2405.09777) | BvA | arXiv 2024 | https://github.com/Senyh/BvA |
-| [Self-paced Sample Selection for Barely-Supervised Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_56) | SPSS | MICCAI 2024 | https://github.com/SuuuJM/SPSS |
+| Field | Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|-----|
+|Barely-Supervised| [FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0050_paper.pdf) | FM-ABS | MICCAI 2024 | https://github.com/lemoshu/FM-ABS |
+|Barely-Supervised| [Few Slices Suffice Multi-faceted Consistency Learning with Active Cross-Annotation for Barely-Supervised 3D Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_27) | MF-ConS | MICCAI 2024 | -- |
+|Barely-Supervised| [Rethinking Barely-Supervised Volumetric Medical Image Segmentation from an Unsupervised Domain Adaptation Perspective](https://arxiv.org/abs/2405.09777) | BvA | arXiv 2024 | https://github.com/Senyh/BvA |
+|Barely-Supervised| [Self-paced Sample Selection for Barely-Supervised Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_56) | SPSS | MICCAI 2024 | https://github.com/SuuuJM/SPSS |
 
 
 ## 2023
