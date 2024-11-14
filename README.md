@@ -1,6 +1,6 @@
 # Awesome-Papers-for-Medical-Image-Segmentation
 
-# Barely Supervised Medical Image Segmentation
+# Barely-Supervised Medical Image Segmentation
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
@@ -16,3 +16,18 @@
 | [Compete to Win: Enhancing Pseudo Labels for Barely-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/10132102) | ComWin | TMI 2023 | https://github.com/Huiimin5/comwin |
 | [PLN: Parasitic-Like Network for Barely Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/9906305) | PLN | TMI 2023 | https://github.com/ShumengLI/PLN |
 | [Orthogonal Annotation Benefits Barely-supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Orthogonal_Annotation_Benefits_Barely-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.pdf) | DeSCO | CVPR 2023 | https://github.com/HengCai-NJU/DeSCO |
+
+
+# Semi-Supervised Medical Image Segmentation
+## 2024
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [VCLIPSeg: Voxel-wise CLIP-Enhanced model for Semi-Supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/1949_paper.pdf) | VCLIPSeg | MICCAI 2024 | -- |
+
+
+# Referring Medical Image Segmentation
+## 2024
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [CausalCLIPSeg: Unlocking CLIP’s Potential in Referring Medical Image Segmentation with Causal Intervention](https://papers.miccai.org/miccai-2024/paper/3127_paper.pdf) | CausalCLIPSeg | MICCAI 2024 | https://github.com/WUTCM-Lab/CausalCLIPSeg |
+
