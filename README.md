@@ -1,7 +1,7 @@
 # Awesome-Papers-for-Medical-Image-Segmentation
 
-# Barely-Supervised Medical Image Segmentation
-## 2024
+## Barely-Supervised Medical Image Segmentation
+### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0050_paper.pdf) | FM-ABS | MICCAI 2024 | https://github.com/lemoshu/FM-ABS |
@@ -10,7 +10,7 @@
 | [Self-paced Sample Selection for Barely-Supervised Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_56) | SPSS | MICCAI 2024 | https://github.com/SuuuJM/SPSS |
 
 
-## 2023
+### 2023
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [Compete to Win: Enhancing Pseudo Labels for Barely-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/10132102) | ComWin | TMI 2023 | https://github.com/Huiimin5/comwin |
@@ -18,8 +18,8 @@
 | [Orthogonal Annotation Benefits Barely-supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Orthogonal_Annotation_Benefits_Barely-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.pdf) | DeSCO | CVPR 2023 | https://github.com/HengCai-NJU/DeSCO |
 
 
-# Semi-Supervised Medical Image Segmentation
-## 2024
+## Semi-Supervised Medical Image Segmentation
+### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [VCLIPSeg: Voxel-wise CLIP-Enhanced model for Semi-Supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/1949_paper.pdf) | VCLIPSeg | MICCAI 2024 | -- |
