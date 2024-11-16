@@ -31,3 +31,15 @@
 |-----|-----|-----|-----|
 | [CausalCLIPSeg: Unlocking CLIP’s Potential in Referring Medical Image Segmentation with Causal Intervention](https://papers.miccai.org/miccai-2024/paper/3127_paper.pdf) | CausalCLIPSeg | MICCAI 2024 | https://github.com/WUTCM-Lab/CausalCLIPSeg |
 
+## Weakly-supervised Medical Image Segmentation
+### 2024
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [A Bayesian Approach to Weakly-supervised Laparoscopic Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0219_paper.pdf) | Bayesian_WSS | MICCAI 2024 | https://github.com/MoriLabNU/Bayesian_WSS |
+
+## Universal Model
+### 2023
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.pdf) | CLIP-Driven_Universal_Model | ICCV 2023 | https://github.com/ljwztc/CLIP-Driven-Universal-Model |
+
