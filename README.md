@@ -35,6 +35,7 @@
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [A Weakly-supervised Multi-lesion Segmentation Framework Based on Target-level Incomplete Annotations](https://papers.miccai.org/miccai-2024/paper/1747_paper.pdf) | CD_TIA | MICCAI 2024 | https://github.com/HeyJGJu/CD_TIA |
 | [A Bayesian Approach to Weakly-supervised Laparoscopic Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0219_paper.pdf) | Bayesian_WSS | MICCAI 2024 | https://github.com/MoriLabNU/Bayesian_WSS |
 
 ## Universal Model
