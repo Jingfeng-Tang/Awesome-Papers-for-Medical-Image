@@ -44,3 +44,9 @@
 |-----|-----|-----|-----|
 | [CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.pdf) | CLIP-Driven_Universal_Model | ICCV 2023 | https://github.com/ljwztc/CLIP-Driven-Universal-Model |
 
+## Medical Image Classification
+### 2024
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation](https://papers.miccai.org/miccai-2024/paper/1765_paper.pdf) | UDCD | MICCAI 2024 | https://github.com/philsaurabh/UDCD_MICCAI |
+
