@@ -1,4 +1,4 @@
-# Awesome-Papers-for-Medical-Image-Segmentation
+# Awesome-Papers-for-Medical-Image
 
 ## Barely-Supervised Medical Image Segmentation
 ### 2024
@@ -50,3 +50,8 @@
 |-----|-----|-----|-----|
 | [Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation](https://papers.miccai.org/miccai-2024/paper/1765_paper.pdf) | UDCD | MICCAI 2024 | https://github.com/philsaurabh/UDCD_MICCAI |
 
+## Pre-trained Model
+### 2023
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [vox2vec: A Framework for Self-supervised Contrastive Learning of Voxel-level Representations in Medical Images](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_58) | vox2vec | MICCAI 2023 | https://github.com/mishgon/vox2vec |
