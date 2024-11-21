@@ -51,6 +51,12 @@
 | [Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation](https://papers.miccai.org/miccai-2024/paper/1765_paper.pdf) | UDCD | MICCAI 2024 | https://github.com/philsaurabh/UDCD_MICCAI |
 
 ## Pre-trained Model
+### 2024
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [Anatomical Positional Embeddings](https://papers.miccai.org/miccai-2024/paper/3539_paper.pdf) | APE | MICCAI 2024 | https://github.com/mishgon/ape |
+
+
 ### 2023
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
