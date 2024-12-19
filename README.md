@@ -25,6 +25,11 @@
 | [FRCNet: Frequency and Region Consistency for Semi-supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0245_paper.pdf) | FRCNet | MICCAI 2024 | https://github.com/NKUhealong/FRCNet |
 | [VCLIPSeg: Voxel-wise CLIP-Enhanced model for Semi-Supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/1949_paper.pdf) | VCLIPSeg | MICCAI 2024 | -- |
 
+### 2019
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [Uncertainty-Aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_67) | UA-MT | MICCAI 2019 | https://github.com/yulequan/UA-MT |
+
 
 ## Referring Medical Image Segmentation
 ### 2024
