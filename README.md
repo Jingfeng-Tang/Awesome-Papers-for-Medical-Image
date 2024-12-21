@@ -4,6 +4,7 @@
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Barely-supervised Brain Tumor Segmentation via Employing Segment Anything Model](https://ieeexplore.ieee.org/document/10491099) | BarelySAM | TCSVT 2024 | -- |
 | [FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0050_paper.pdf) | FM-ABS | MICCAI 2024 | https://github.com/lemoshu/FM-ABS |
 | [Few Slices Suffice Multi-faceted Consistency Learning with Active Cross-Annotation for Barely-Supervised 3D Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_27) | MF-ConS | MICCAI 2024 | -- |
 | [Rethinking Barely-Supervised Volumetric Medical Image Segmentation from an Unsupervised Domain Adaptation Perspective](https://arxiv.org/abs/2405.09777) | BvA | arXiv 2024 | https://github.com/Senyh/BvA |
