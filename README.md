@@ -18,6 +18,11 @@
 | [PLN: Parasitic-Like Network for Barely Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/9906305) | PLN | TMI 2023 | https://github.com/ShumengLI/PLN |
 | [Orthogonal Annotation Benefits Barely-supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Orthogonal_Annotation_Benefits_Barely-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.pdf) | DeSCO | CVPR 2023 | https://github.com/HengCai-NJU/DeSCO |
 
+### 2022
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [Calibrating Label Distribution for Class-Imbalanced Barely-Supervised Knee Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_11) | CLD | MICCAI 2022 | https://github.com/xmed-lab/CLD-Semi |
+
 
 ## Semi-Supervised Medical Image Segmentation
 ### 2024
