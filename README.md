@@ -1,6 +1,6 @@
 # Awesome-Papers-for-Medical-Image
 
-## Barely-Supervised Medical Image Segmentation
+## ✨✨✨Barely-Supervised Medical Image Segmentation
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
