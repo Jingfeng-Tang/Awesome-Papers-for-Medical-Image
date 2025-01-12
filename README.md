@@ -24,7 +24,7 @@
 | [Calibrating Label Distribution for Class-Imbalanced Barely-Supervised Knee Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_11) | CLD | MICCAI 2022 | https://github.com/xmed-lab/CLD-Semi |
 
 
-## Semi-Supervised Medical Image Segmentation
+## ✨✨✨Semi-Supervised Medical Image Segmentation
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
@@ -43,32 +43,32 @@
 | [Uncertainty-Aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_67) | UA-MT | MICCAI 2019 | https://github.com/yulequan/UA-MT |
 
 
-## Referring Medical Image Segmentation
+## ✨✨✨Referring Medical Image Segmentation
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [CausalCLIPSeg: Unlocking CLIP’s Potential in Referring Medical Image Segmentation with Causal Intervention](https://papers.miccai.org/miccai-2024/paper/3127_paper.pdf) | CausalCLIPSeg | MICCAI 2024 | https://github.com/WUTCM-Lab/CausalCLIPSeg |
 
-## Weakly-supervised Medical Image Segmentation
+## ✨✨✨Weakly-supervised Medical Image Segmentation
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [A Weakly-supervised Multi-lesion Segmentation Framework Based on Target-level Incomplete Annotations](https://papers.miccai.org/miccai-2024/paper/1747_paper.pdf) | CD_TIA | MICCAI 2024 | https://github.com/HeyJGJu/CD_TIA |
 | [A Bayesian Approach to Weakly-supervised Laparoscopic Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0219_paper.pdf) | Bayesian_WSS | MICCAI 2024 | https://github.com/MoriLabNU/Bayesian_WSS |
 
-## Universal Model
+## ✨✨✨Universal Model
 ### 2023
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.pdf) | CLIP-Driven_Universal_Model | ICCV 2023 | https://github.com/ljwztc/CLIP-Driven-Universal-Model |
 
-## Medical Image Classification
+## ✨✨✨Medical Image Classification
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation](https://papers.miccai.org/miccai-2024/paper/1765_paper.pdf) | UDCD | MICCAI 2024 | https://github.com/philsaurabh/UDCD_MICCAI |
 
-## Pre-trained Model
+## ✨✨✨Pre-trained Model
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
