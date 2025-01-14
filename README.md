@@ -37,6 +37,13 @@
 |-----|-----|-----|-----|
 | [Co-training with High-Confidence Pseudo Labels for Semi-supervised Medical Image Segmentation](https://www.ijcai.org/proceedings/2023/0467.pdf) | UCMT | IJCAI 2023 | https://github.com/Senyh/UCMT |
 
+### 2021
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Semi-Supervised_Semantic_Segmentation_With_Cross_Pseudo_Supervision_CVPR_2021_paper.pdf) | CPS | CVPR 2021 | -- |
+
+
+
 ### 2020
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
