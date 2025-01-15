@@ -40,7 +40,9 @@
 ### 2021
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Semi-supervised Medical Image Segmentation through Dual-task Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/17066) | DTC | AAAI 2021 | https://github.com/HiLab-git/DTC |
 | [Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Semi-Supervised_Semantic_Segmentation_With_Cross_Pseudo_Supervision_CVPR_2021_paper.pdf) | CPS | CVPR 2021 | -- |
+
 
 
 
