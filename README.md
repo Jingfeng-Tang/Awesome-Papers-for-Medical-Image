@@ -28,6 +28,7 @@
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Mutual learning with reliable pseudo label for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841524000367) | Mutual learning with reliable pseudo label | MedIA 2024 | https://github.com/Jiawei0o0/mutual-learning-with-reliable-pseudo-labels |
 | [FRCNet: Frequency and Region Consistency for Semi-supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0245_paper.pdf) | FRCNet | MICCAI 2024 | https://github.com/NKUhealong/FRCNet |
 | [VCLIPSeg: Voxel-wise CLIP-Enhanced model for Semi-Supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/1949_paper.pdf) | VCLIPSeg | MICCAI 2024 | -- |
 
