@@ -85,10 +85,12 @@
 |-----|-----|-----|-----|
 | [Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation](https://papers.miccai.org/miccai-2024/paper/1765_paper.pdf) | UDCD | MICCAI 2024 | https://github.com/philsaurabh/UDCD_MICCAI |
 
-## ✨✨✨Pre-trained Model
+## ✨✨✨Pre-trained Framework
 ### 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [VoCo:A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis
+](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_VoCo_A_Simple-yet-Effective_Volume_Contrastive_Learning_Framework_for_3D_Medical_CVPR_2024_paper.pdf) | VoCo | CVPR 2024 | https://github.com/Luffy03/VoCo |
 | [Anatomical Positional Embeddings](https://papers.miccai.org/miccai-2024/paper/3539_paper.pdf) | APE | MICCAI 2024 | https://github.com/mishgon/ape |
 
 
