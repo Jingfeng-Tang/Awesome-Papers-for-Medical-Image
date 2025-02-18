@@ -96,4 +96,5 @@
 ### 2023
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [A Unified Visual Information Preservation Framework for Self-supervised Pre-Training in Medical Image Analysis](https://ieeexplore.ieee.org/document/10005161) | PCRLv2 | TPAMI 2023 | https://github.com/RL4M/PCRLv2 |
 | [vox2vec: A Framework for Self-supervised Contrastive Learning of Voxel-level Representations in Medical Images](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_58) | vox2vec | MICCAI 2023 | https://github.com/mishgon/vox2vec |
