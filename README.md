@@ -38,6 +38,12 @@
 |-----|-----|-----|-----|
 | [Co-training with High-Confidence Pseudo Labels for Semi-supervised Medical Image Segmentation](https://www.ijcai.org/proceedings/2023/0467.pdf) | UCMT | IJCAI 2023 | https://github.com/Senyh/UCMT |
 
+### 2022
+| Title | Abbreviation | Venue | Code |
+|-----|-----|-----|-----|
+| [SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/9740182) | SimCVD | TMI 2022 | -- |
+
+
 ### 2021
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
