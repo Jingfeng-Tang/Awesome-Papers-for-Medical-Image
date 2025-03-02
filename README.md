@@ -39,8 +39,9 @@
 | [Co-training with High-Confidence Pseudo Labels for Semi-supervised Medical Image Segmentation](https://www.ijcai.org/proceedings/2023/0467.pdf) | UCMT | IJCAI 2023 | https://github.com/Senyh/UCMT |
 
 ### 2022
-| Title | Abbreviation | Venue | Code |
+| Title | Abbreviation | Venue | Code | Conclusion |
 |-----|-----|-----|-----|
+| [Inconsistency-Aware Uncertainty Estimation for Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/9558816) | CoraNet | TMI 2022 | https://github.com/koncle/CoraNet | 作者观察到给误分类施加不同程度的惩罚，会使模型给出不同的预测。基于此现象，提出一种新的不确定性估计。基于给出的确定性和不确定性，分别计算分割损失。迭代训练。 |
 | [SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/9740182) | SimCVD | TMI 2022 | -- |
 
 
