@@ -3,7 +3,7 @@
 ## ✨✨✨One-shot Medical Image Segmentation
 ### 2024
 | Title | Abbreviation | Venue | Code | aaa |
-|-----|-----|-----|-----|
+|-----|-----|-----|-----|-----|
 | [Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Bi-level_Learning_of_Task-Specific_Decoders_for_Joint_Registration_and_One-Shot_CVPR_2024_paper.pdf) | Bi-JROS | CVPR 2024 | [code](https://github.com/Coradlut/Bi-JROS) | 双任务之间的梯度响应 |
 
 ## ✨✨✨Barely-Supervised Medical Image Segmentation
