@@ -34,6 +34,7 @@
 ### 2024
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf) | PH-Net | CVPR 2024 | [code](https://github.com/jjjsyyy/PH-Net) | 熵度量patch不确定性，topk挑选不确定patch对比学习 |
 | [Effective Semi-Supervised Medical Image Segmentation with Probabilistic Representations and Prototype Learning](https://ieeexplore.ieee.org/document/10723767) | PPC | TMI 2024 | [code](https://github.com/IsYuchenYuan/PPC) | 有限的数据，模型难以表征不确定性，对数据进行不确定性建模 |
 | [Mutual learning with reliable pseudo label for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841524000367) | Mutual learning with reliable pseudo label | MedIA 2024 | [code](https://github.com/Jiawei0o0/mutual-learning-with-reliable-pseudo-labels) |
 | [FRCNet: Frequency and Region Consistency for Semi-supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2024/paper/0245_paper.pdf) | FRCNet | MICCAI 2024 | [code](https://github.com/NKUhealong/FRCNet) |
