@@ -4,7 +4,7 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
-| [Leveraging labelled data knowledge: A cooperative rectification learning network for semi-supervised 3D medical image segmentation](https://www.sciencedirect.com/science/article/pii/S136184152500009X) | CRLN | MediIA 2025 | -- | memory bank式的矫正伪标签 |
+| [Leveraging labelled data knowledge: A cooperative rectification learning network for semi-supervised 3D medical image segmentation](https://www.sciencedirect.com/science/article/pii/S136184152500009X) | CRLN | MediIA 2025 | [code](https://github.com/Yaan-Wang/CRLN) | memory bank式的矫正伪标签 |
 
 
 
