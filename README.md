@@ -1,10 +1,18 @@
 # Awesome-Papers-for-Medical-Image
 
+
+## ✨✨✨Multi-source Annotations Medical Image Segmentation
+### 2025
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [Learning robust medical image segmentation from multi-source annotations](https://www.sciencedirect.com/science/article/pii/S1361841525000374) | UMA-Net | MedIA 2025 | [code](https://github.com/wangjin2945/UMA-Net) | 对多源标签进行不确定性评估，根据一致性和可靠性将图像样本分为高低质量，对损失加权 |
+
+
 ## ✨✨✨Semi-Supervised Medical Image Segmentation
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
-| [Leveraging labelled data knowledge: A cooperative rectification learning network for semi-supervised 3D medical image segmentation](https://www.sciencedirect.com/science/article/pii/S136184152500009X) | CRLN | MediIA 2025 | [code](https://github.com/Yaan-Wang/CRLN) | memory bank式的矫正伪标签 |
+| [Leveraging labelled data knowledge: A cooperative rectification learning network for semi-supervised 3D medical image segmentation](https://www.sciencedirect.com/science/article/pii/S136184152500009X) | CRLN | MedIA 2025 | [code](https://github.com/Yaan-Wang/CRLN) | memory bank式的矫正伪标签 |
 
 
 
