@@ -1,5 +1,12 @@
 # Awesome-Papers-for-Medical-Image
 
+## ✨✨✨ Tumor Synthesis and Segmentation
+### 2025
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [FreeTumor Advance Tumor Segmentation via Large-Scale Tumor Synthesis](https://arxiv.org/abs/2406.01264) | FreeTumor | ArixV 2025 | [code](https://github.com/Luffy03/FreeTumor) | 肿瘤图像合成分割 |
+
+
 
 ## ✨✨✨Multi-source Annotations Medical Image Segmentation
 ### 2025
