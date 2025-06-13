@@ -4,6 +4,7 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [Label-Free Liver Tumor Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Label-Free_Liver_Tumor_Segmentation_CVPR_2023_paper.pdf) | SyntheticTumors | CVPR 2023 | [code](https://github.com/MrGiovanni/SyntheticTumors) | 肝细胞瘤图像合成分割（图像算子，handcrafted） |
 | [FreeTumor Advance Tumor Segmentation via Large-Scale Tumor Synthesis](https://arxiv.org/abs/2406.01264) | FreeTumor | ArixV 2025 | [code](https://github.com/Luffy03/FreeTumor) | 肿瘤图像合成分割 |
 
 
