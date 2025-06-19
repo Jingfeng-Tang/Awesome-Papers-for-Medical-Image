@@ -4,6 +4,7 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [Medical Image Synthesis via Fine-Grained Image-Text Alignment and Anatomy-Pathology Prompting](https://papers.miccai.org/miccai-2024/paper/3619_paper.pdf) | Chen et al. | MICAAI 2024 | [code](--) | 文本图像，给定词汇gpt生成 |
 | [From Pixel to Cancer:Cellular Automata in Computed Tomography](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_4) | Pixel2Cancer | MICAAI 2024 | [code](https://github.com/MrGiovanni/Pixel2Cancer) | 肿瘤图像合成分割（Cellular Automata） |
 | [Towards Generalizable Tumor Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Towards_Generalizable_Tumor_Synthesis_CVPR_2024_paper.pdf) | DiffTumor | CVPR 2024 | [code](https://github.com/MrGiovanni/DiffTumor) | 肿瘤图像合成分割（Diffusion） |
 | [Label-Free Liver Tumor Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Label-Free_Liver_Tumor_Segmentation_CVPR_2023_paper.pdf) | SyntheticTumors | CVPR 2023 | [code](https://github.com/MrGiovanni/SyntheticTumors) | 肝细胞瘤图像合成分割（图像算子，handcrafted） |
