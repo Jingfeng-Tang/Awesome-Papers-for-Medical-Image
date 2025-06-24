@@ -1,5 +1,14 @@
 # Awesome-Papers-for-Medical-Image
 
+## ✨✨✨ Medical Image Synthesis
+### 2025
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [Toward general text-guided multimodal brain MRI synthesis for diagnosis and medical image analysis](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00255-1) | TUMSyn | Cell Reports Medicine 2025 | -- | step1: Clip预训练metadata step2: 注意力+隐式解码器合成影像 |
+
+
+
+
 ## ✨✨✨ Tumor Synthesis and Segmentation
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
