@@ -1,5 +1,17 @@
 # Awesome-Papers-for-Medical-Image
 
+## ✨✨✨ Tumor Segmentation
+### 2025
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models](https://openaccess.thecvf.com//content/CVPR2025/papers/Jiang_Advancing_Generalizable_Tumor_Segmentation_with_Anomaly-Aware_Open-Vocabulary_Attention_Maps_and_CVPR_2025_paper.pdf) | DiffuGTS | CVPR 2025 | [code](https://github.com/Yankai96/DiffuGTS) | text-to-image attention maps |
+
+
+
+
+
+
+
 ## ✨✨✨ Medical Image Synthesis
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
