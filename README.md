@@ -16,6 +16,7 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [MAISI:Medical AI for Synthetic Imaging](https://openaccess.thecvf.com/content/WACV2025/papers/Guo_MAISI_Medical_AI_for_Synthetic_Imaging_WACV_2025_paper.pdf) | MAISI | WACV 2025 | -- | step1: VAE compress step2: diffusion learn noise step3: add conditions |
 | [Toward general text-guided multimodal brain MRI synthesis for diagnosis and medical image analysis](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00255-1) | TUMSyn | Cell Reports Medicine 2025 | -- | step1: Clip预训练metadata step2: 注意力+隐式解码器合成影像 |
 | [Medical Image Synthesis via Fine-Grained Image-Text Alignment and Anatomy-Pathology Prompting](https://papers.miccai.org/miccai-2024/paper/3619_paper.pdf) | Chen et al. | MICAAI 2024 | -- | 文本图像，给定词汇gpt生成 |
 
