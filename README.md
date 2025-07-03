@@ -4,6 +4,8 @@
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis
+](https://arxiv.org/pdf/2507.00377) | MedDiff-FT | MICAAI 2025 | [code](https://github.com/JianhaoXie1/MedDiff-FT) | diffusion生成肿瘤影像与原图计算重构损失 |
 | [FreeTumor Advance Tumor Segmentation via Large-Scale Tumor Synthesis](https://arxiv.org/abs/2406.01264) | FreeTumor | ArixV 2025 | [code](https://github.com/Luffy03/FreeTumor) | 肿瘤图像合成分割 |
 ### 2024
 | Title | Abbreviation | Venue | Code | aaa |
