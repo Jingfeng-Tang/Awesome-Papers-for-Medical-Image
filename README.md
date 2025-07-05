@@ -1,5 +1,24 @@
 # Awesome-Papers-for-Medical-Image
 
+
+
+## ✨✨✨ Brain and Graph
+### 2025
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [Exploring Attention and Self-Supervised Learning Mechanism for Graph Similarity Learning](https://ieeexplore.ieee.org/abstract/document/10804817) | SNA-GSL | TNNLS 2025 | [code](https://github.com/IntelliDAL/Graph/SNA-GSL) | -- |
+
+
+
+
+
+
+
+
+
+
+
+
 ## ✨✨✨ Tumor Synthesis and Segmentation
 ### 2025
 | Title | Abbreviation | Venue | Code | aaa |
